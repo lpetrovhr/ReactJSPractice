@@ -1,7 +1,7 @@
 {
   "name": "ReactTest",
   "version": "1.0.0",
-  "author": "lpetrovhr",
+  "author": "leon",
   "dependencies": {
     "axios": "^0.8.1",
     "body-parser": "^1.14.1",
