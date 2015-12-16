@@ -3,6 +3,6 @@ var ReactDOM = require('react-dom');
 var TestComponent = require('./components/TestComponent.jsx');
 
 ReactDOM.render(
-  <TestComponent/>,
+  <TestComponent />,
   document.getElementById("react-app")
 );
