@@ -1,7 +1,7 @@
 {
   "name": "ReactTest",
   "version": "1.0.0",
-  "author": "East Coast Product",
+  "author": "lpetrovhr",
   "dependencies": {
     "axios": "^0.8.1",
     "body-parser": "^1.14.1",
